@@ -1,0 +1,14 @@
+C:\Users\ronyj\source\repos\HolaMundo3\bin\Debug\net8.0\HolaMundo3.exe
+C:\Users\ronyj\source\repos\HolaMundo3\bin\Debug\net8.0\HolaMundo3.deps.json
+C:\Users\ronyj\source\repos\HolaMundo3\bin\Debug\net8.0\HolaMundo3.runtimeconfig.json
+C:\Users\ronyj\source\repos\HolaMundo3\bin\Debug\net8.0\HolaMundo3.dll
+C:\Users\ronyj\source\repos\HolaMundo3\bin\Debug\net8.0\HolaMundo3.pdb
+C:\Users\ronyj\source\repos\HolaMundo3\obj\Debug\net8.0\HolaMundo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronyj\source\repos\HolaMundo3\obj\Debug\net8.0\HolaMundo3.AssemblyInfoInputs.cache
+C:\Users\ronyj\source\repos\HolaMundo3\obj\Debug\net8.0\HolaMundo3.AssemblyInfo.cs
+C:\Users\ronyj\source\repos\HolaMundo3\obj\Debug\net8.0\HolaMundo3.csproj.CoreCompileInputs.cache
+C:\Users\ronyj\source\repos\HolaMundo3\obj\Debug\net8.0\HolaMundo3.dll
+C:\Users\ronyj\source\repos\HolaMundo3\obj\Debug\net8.0\refint\HolaMundo3.dll
+C:\Users\ronyj\source\repos\HolaMundo3\obj\Debug\net8.0\HolaMundo3.pdb
+C:\Users\ronyj\source\repos\HolaMundo3\obj\Debug\net8.0\HolaMundo3.genruntimeconfig.cache
+C:\Users\ronyj\source\repos\HolaMundo3\obj\Debug\net8.0\ref\HolaMundo3.dll
